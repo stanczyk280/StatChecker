@@ -1,0 +1,3 @@
+An automation to summing up stats for Hell Let Loose competetive matches.
+
+In progres...
